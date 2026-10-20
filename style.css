@@ -1,0 +1,17 @@
+h1 {
+    color: #9c0b0b;
+    font-size: 2em;
+    text-align: center;
+    background-color: bisque;
+}
+.description {
+    font-size: 1.2em;
+    color: #aa1818;
+    margin: 20px;
+}
+h2 {
+    color: #8b5858;
+    font-size: 1.5em;
+    text-align: center;
+    background-color: rgb(218, 146, 59);
+}
